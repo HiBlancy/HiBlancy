@@ -31,9 +31,6 @@ El Máster en Unity me ha permitido profundizar en el desarrollo de videojuegos 
 - Lógica del Juego: Implementación de mecánicas de juego y sistemas de control utilizando el motor de Unity.
 - UX y UI: Diseño de interfaces de usuario intuitivas y atractivas, incluyendo menús y sistemas de registros.
 - Proyectos en itch.io: Portafolio de proyectos que demuestran mi capacidad para desarrollar y finalizar juegos completos.
-- RV y RA: ligero toque al mundo de la realidad virtual y aumentada.
-
-**Trabajo Final de Máster: [Bomberman 3D](https://blancy.itch.io/bomberman-3d)** <!-- Ajusta el enlace si es necesario -->
 
 ### Tokio School
 **Máster en Programación de videojuegos con Unreal Engine**  
@@ -44,8 +41,6 @@ El Máster en Unreal me ha proporcionado una formación integral en el desarroll
 - C++: Programación avanzada en C++ para crear mecánicas de juego complejas y optimizar el rendimiento.
 - Herramientas propias de Unreal Engine: Landscape y Foliage: Creación y edición de terrenos y vegetación para construir entornos de juego inmersivos, con assets importados de terceros.
 - Inteligencia Artificial: Implementación de comportamientos de personajes no jugables y creación de sistemas de IA avanzados.
-
-**Trabajo Final de Máster: [Tank Vanguard](https://blancy.itch.io/tank-vanguard)** <!-- Ajusta el enlace si es necesario -->
 
 ---
 
@@ -79,11 +74,3 @@ El Máster en Unreal me ha proporcionado una formación integral en el desarroll
 
 - **Bomberman 3D** (Unity): [Jugar / Ver proyecto](https://blancy.itch.io/bomberman-3d)
 - **Tank Vanguard** (Unreal Engine): [Jugar / Ver proyecto](https://blancy.itch.io/tank-vanguard)
-
----
-
-## 📫 Contacto
-
-- 📧 Email: [tu-email@example.com](mailto:tu-email@example.com)
-- 🌐 itch.io: [blancy.itch.io](https://blancy.itch.io)
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil) <!-- Si tienes -->

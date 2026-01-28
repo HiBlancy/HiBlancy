@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Blancy
 
-## 🎮 Desarrolladora de Videojuegos | Unreal Engine, Unity y GODOT
+## 🎮 Desarrolladora de Videojuegos | Unreal Engine y Unity
 
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://blancy.itch.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil) <!-- Si tienes LinkedIn -->
@@ -21,12 +21,9 @@ Estoy constantemente buscando ampliar mis conocimientos y habilidades en el mund
 
 ### PROGRESA CENTRO DE FORMACIÓN PROFESIONAL
 **Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones multiplataforma**  
-*sept. 2024 - jun. 2026*
 
 ### Tokio School
 **Master en Programación de Videojuegos y Realidad Aumentada Unity**  
-*mar. 2022 - may. 2024*  
-Nota: 9
 
 El Máster en Unity me ha permitido profundizar en el desarrollo de videojuegos desde cero tanto en 3D como en 2D, uno de los motores de juego más populares y accesibles. A lo largo del curso, he trabajado en diversos proyectos que están disponibles para ver en itch.io.
 
@@ -40,8 +37,6 @@ El Máster en Unity me ha permitido profundizar en el desarrollo de videojuegos 
 
 ### Tokio School
 **Máster en Programación de videojuegos con Unreal Engine**  
-*mar. 2022 - mar. 2024*  
-Nota: 9
 
 El Máster en Unreal me ha proporcionado una formación integral en el desarrollo de videojuegos, una de las herramientas más potentes y versátiles de la industria. Durante el curso, he adquirido conocimientos sólidos en diversas áreas clave del desarrollo de videojuegos.
 
@@ -59,7 +54,6 @@ El Máster en Unreal me ha proporcionado una formación integral en el desarroll
 ### Motores de Videojuegos
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### Lenguajes de Programación
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -68,15 +62,10 @@ El Máster en Unreal me ha proporcionado una formación integral en el desarroll
 ### Herramientas y Tecnologías
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ### Metodologías
 ![Metodologías Ágiles](https://img.shields.io/badge/Metodologías_Ágiles-009688?style=for-the-badge&logo=agile&logoColor=white)
 ![POO](https://img.shields.io/badge/Programación_Orientada_a_Objetos-FF6F00?style=for-the-badge)
-
-### Idiomas
-![Español](https://img.shields.io/badge/Español-Nativo-007396?style=for-the-badge)
-![Alemán](https://img.shields.io/badge/Alemán-A1-FF0000?style=for-the-badge)
 
 ---
 
@@ -93,22 +82,8 @@ El Máster en Unreal me ha proporcionado una formación integral en el desarroll
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
-
-*Nota: Estas estadísticas son solo un ejemplo. Debes reemplazar `tu-usuario` con tu nombre de usuario de GitHub.*
-
----
-
 ## 📫 Contacto
 
 - 📧 Email: [tu-email@example.com](mailto:tu-email@example.com)
 - 🌐 itch.io: [blancy.itch.io](https://blancy.itch.io)
 - 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil) <!-- Si tienes -->
-
----
-
-⭐️ *Desde [tu-usuario](https://github.com/tu-usuario)*

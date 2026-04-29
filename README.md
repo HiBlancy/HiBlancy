@@ -9,62 +9,45 @@
 
 ## 👩‍💻 Sobre mí
 
-Desarrolladora Full Stack con formación en Desarrollo de Aplicaciones Multiplataforma (DAM), especializada en todo el ciclo de vida del software: desde el análisis y diseño hasta el desarrollo, despliegue y mantenimiento de aplicaciones.
+Desarrolladora Full Stack con formación en Desarrollo de Aplicaciones Multiplataforma (DAM),  especializada en todo el ciclo de vida del software: desde el análisis y diseño hasta el desarrollo, despliegue y mantenimiento de aplicaciones.
 
-Cuento con experiencia trabajando con tecnologías como Java, C#, TypeScript, Node.js, NestJS, .NET y Spring Boot. En el ámbito frontend, desarrollo interfaces modernas y dinámicas con HTML, CSS, Angular e Ionic, creando aplicaciones web y móviles híbridas.
+Trabajo principalmente con **Java (Spring Boot), Node.js (NestJS) y .NET**, creando APIs robustas y escalables. En frontend, desarrollo interfaces modernas con **Angular, Ionic y TypeScript**. Mi perfil combina tanto el desarrollo backend como frontend, con una base sólida en diseño digital, lo que me permite crear soluciones completas, funcionales y con buena experiencia de usuario.
 
-También trabajo con bases de datos SQL y MongoDB, y tengo experiencia en desarrollo móvil con Flutter y Android Studio, además de integrar herramientas de inteligencia artificial en distintos proyectos.
+También tengo experiencia en desarrollo móvil con **Flutter y Android (Java)**, así como en bases de datos SQL y MongoDB.
 
-Mi perfil combina tanto el desarrollo backend como frontend, con una base sólida en diseño digital, lo que me permite crear soluciones completas, funcionales y con buena experiencia de usuario.
+Además, cuento con formación en desarrollo de videojuegos con **Unity y Unreal Engine**, lo que me aporta una visión más amplia del desarrollo interactivo y la arquitectura de sistemas.
 
-Además, tengo conocimientos en motores gráficos como Unity, Unreal Engine y Godot, lo que me aporta una visión más amplia del desarrollo interactivo y multiplataforma.
-
-Soy una persona curiosa, proactiva y con muchas ganas de seguir aprendiendo y creciendo profesionalmente, siempre abierta a nuevos retos y tecnologías.
+Me interesa crear aplicaciones completas, desde la idea hasta el despliegue, combinando lógica sólida, buen diseño y usabilidad. Soy una persona curiosa, proactiva y con muchas ganas de seguir aprendiendo y creciendo profesionalmente, siempre abierta a nuevos retos y tecnologías.
 
 Mi portafolio de proyectos se puede ver en [itch.io](https://blancy.itch.io), donde he publicado varios juegos que demuestran mi capacidad para llevar una idea desde el concepto inicial hasta un producto terminado y jugable.
 
 ---
 
-## 🎓 Educación
+## 🧠 Stack Tecnológico
 
-### PROGRESA CENTRO DE FORMACIÓN PROFESIONAL
-**Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones multiplataforma**  
+### 🚀 Backend
+- Java (Spring Boot)
+- Node.js (NestJS)
+- .NET
 
-### Tokio School
-**Master en Programación de Videojuegos y Realidad Aumentada Unity**  
+### 🎨 Frontend & Web
+- Angular
+- Ionic
+- TypeScript
+- HTML / CSS
 
-El Máster en Unity me ha permitido profundizar en el desarrollo de videojuegos desde cero tanto en 3D como en 2D, uno de los motores de juego más populares y accesibles. A lo largo del curso, he trabajado en diversos proyectos que están disponibles para ver en itch.io.
+### 📱 Mobile
+- Flutter
+- Android (Java)
+- iOS (Swift)
 
-- Creación de Escenarios: Diseño y desarrollo de entornos de juego detallados y atractivos.
-- Lógica del Juego: Implementación de mecánicas de juego y sistemas de control utilizando el motor de Unity.
-- UX y UI: Diseño de interfaces de usuario intuitivas y atractivas, incluyendo menús y sistemas de registros.
-- Proyectos en itch.io: Portafolio de proyectos que demuestran mi capacidad para desarrollar y finalizar juegos completos.
+### 🗄️ Bases de Datos
+- SQL
+- MongoDB
 
-### Tokio School
-**Máster en Programación de videojuegos con Unreal Engine**  
-
-El Máster en Unreal me ha proporcionado una formación integral en el desarrollo de videojuegos, una de las herramientas más potentes y versátiles de la industria. Durante el curso, he adquirido conocimientos sólidos en diversas áreas clave del desarrollo de videojuegos.
-
-- Blueprints: Dominio del sistema de scripting visual de Unreal Engine, que permite desarrollar lógica de juego sin necesidad de escribir código.
-- C++: Programación avanzada en C++ para crear mecánicas de juego complejas y optimizar el rendimiento.
-- Herramientas propias de Unreal Engine: Landscape y Foliage: Creación y edición de terrenos y vegetación para construir entornos de juego inmersivos, con assets importados de terceros.
-- Inteligencia Artificial: Implementación de comportamientos de personajes no jugables y creación de sistemas de IA avanzados.
-
----
-
-## 🛠️ Habilidades
-
-### Motores de Videojuegos
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-### Lenguajes de Programación
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Herramientas y Tecnologías
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+### 🎮 Game Dev
+- Unity (C#)
+- Unreal Engine (C++ / Blueprints)
 
 ### Metodologías
 ![Metodologías Ágiles](https://img.shields.io/badge/Metodologías_Ágiles-009688?style=for-the-badge&logo=agile&logoColor=white)
@@ -72,11 +55,28 @@ El Máster en Unreal me ha proporcionado una formación integral en el desarroll
 
 ---
 
+## 🎓 Educación
+
+### 💻 Desarrollo de Aplicaciones Multiplataforma (DAM)
+*PROGRESA Centro de Formación Profesional*
+* Formación integral en el ciclo de vida del software: análisis, diseño, despliegue y mantenimiento.
+* Dominio de stack backend (Java/Spring, Node, .NET) y desarrollo móvil (Ionic, Android, Swift).
+
+### 🎮 Máster en Programación de Videojuegos (Unreal Engine)
+*Tokio School*
+* Especialización en **C++** y scripting visual (**Blueprints**).
+* Optimización de rendimiento, sistemas de IA y diseño de entornos (Landscape/Foliage).
+
+### 🕹️ Máster en Programación de Videojuegos y RA (Unity)
+*Tokio School*
+* Desarrollo 2D/3D con **C#**.
+* Implementación de mecánicas, UI/UX inmersiva y sistemas de juego completos.
+
+---
+
 ## 🎮 Portafolio
 
 ¡Echa un vistazo a mis proyectos en itch.io!
-
-[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://blancy.itch.io)
 
 ### Proyectos Destacados
 

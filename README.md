@@ -3,7 +3,7 @@
 ## 💻 Full Stack Developer | 🎮 Game Developer
 
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://blancy.itch.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ieva-rituma-449078195/)](https://www.linkedin.com/in/ieva-rituma-449078195/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ieva-rituma-449078195/)
 
 ---
 

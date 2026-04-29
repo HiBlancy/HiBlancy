@@ -1,19 +1,27 @@
-# 👋 ¡Hola! Soy Blancy
+# ¡Hola! Soy Blancy
 
-## 🎮 Desarrolladora de Videojuegos | Unreal Engine y Unity
+## 💻 Full Stack Developer | 🎮 Game Developer
 
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://blancy.itch.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil) <!-- Si tienes LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ieva-rituma-449078195/))
 
 ---
 
 ## 👩‍💻 Sobre mí
 
-Soy una desarrolladora de videojuegos con una sólida formación en programación y diseño digital. He completado cursos especializados en Unreal Engine y Unity en Tokio School, donde he adquirido habilidades avanzadas en la creación de videojuegos, desde la conceptualización hasta la implementación final. Mis conocimientos abarcan la programación en C++ y C#, el uso de Blueprints, la creación de escenarios, la lógica del juego, y el diseño de UX/UI. Durante la realización de prácticas, también aprendí a utilizar GODOT, ampliando así mi dominio en diferentes motores de videojuegos.
+Desarrolladora Full Stack con formación en Desarrollo de Aplicaciones Multiplataforma (DAM), especializada en todo el ciclo de vida del software: desde el análisis y diseño hasta el desarrollo, despliegue y mantenimiento de aplicaciones.
+
+Cuento con experiencia trabajando con tecnologías como Java, C#, TypeScript, Node.js, NestJS, .NET y Spring Boot. En el ámbito frontend, desarrollo interfaces modernas y dinámicas con HTML, CSS, Angular e Ionic, creando aplicaciones web y móviles híbridas.
+
+También trabajo con bases de datos SQL y MongoDB, y tengo experiencia en desarrollo móvil con Flutter y Android Studio, además de integrar herramientas de inteligencia artificial en distintos proyectos.
+
+Mi perfil combina tanto el desarrollo backend como frontend, con una base sólida en diseño digital, lo que me permite crear soluciones completas, funcionales y con buena experiencia de usuario.
+
+Además, tengo conocimientos en motores gráficos como Unity, Unreal Engine y Godot, lo que me aporta una visión más amplia del desarrollo interactivo y multiplataforma.
+
+Soy una persona curiosa, proactiva y con muchas ganas de seguir aprendiendo y creciendo profesionalmente, siempre abierta a nuevos retos y tecnologías.
 
 Mi portafolio de proyectos se puede ver en [itch.io](https://blancy.itch.io), donde he publicado varios juegos que demuestran mi capacidad para llevar una idea desde el concepto inicial hasta un producto terminado y jugable.
-
-Estoy constantemente buscando ampliar mis conocimientos y habilidades en el mundo de los videojuegos y la programación, siempre con el objetivo de crear experiencias únicas e innovadoras y sobre todo, aprender y mejorar.
 
 ---
 
